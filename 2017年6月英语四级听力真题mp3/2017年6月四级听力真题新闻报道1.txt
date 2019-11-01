@@ -1,0 +1,27 @@
+
+One of Google's self-driving cars crashed into a bus in California last month. There were no injuries.
+  It is not the first time one of Google's famed self-driving cars has been involved in a crash,but it may be the first time it has caused one.
+  On February 14th the self-driving car, travelling at 2mph (3km/h) , pulled out in front of a public bus going 15mph (24km/h) .
+  The man in the Google vehicle reported that he assumed the bus would slow down to let thecar out, and so he did not switch to the manual mode.
+   In a statement, Google said: "We clearly bear some responsibility, because if our car hadn't moved, there wouldn't have been a crash."
+  That said, our test driver believed the bus was going to slow or stop to allow us to merge into the traffic, and that there would be sufficient space to do that."
+  The company's self-driving cars have done well over a million miles across various states in the US, and until now have only reported minor accidents.
+
+
+self-driving  无人驾驶;
+crashed into 撞到了;
+crash 车祸，事故；
+injuries 受伤者；
+famed 名声在外的；
+vehicle   车辆；
+switch to  切换到；
+manual 手动的；
+statement 声明；
+bear vt.承受,忍受；n.熊;
+merge 汇入，合并；
+sufficient  /səˈfiSHənt/ 足够的，足以；
+space 空间
+across 穿过；
+various 许多的；
+minor 一些，次要的；
+accident 事故；
